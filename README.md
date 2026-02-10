@@ -1,5 +1,4 @@
 # GrabPic
-Here is a **short, clean, GitHub-ready README** 👇
 
 ---
 
@@ -37,5 +36,3 @@ After events, organizers upload hundreds or thousands of photos. This app automa
 College fests, weddings, hackathons, corporate events, and conferences.
 
 ---
-
-If you want later, I can help you upgrade this into a **professional hackathon README** or **startup-style README**.
