@@ -10,7 +10,7 @@ AI-powered application that helps event attendees quickly find their photos usin
 
 After events, organizers upload hundreds or thousands of photos. This app automatically detects faces in uploaded images and allows users to upload a selfie to instantly retrieve all photos where they appear.
 
- How It Works
+ How GrabPic Works
 
 * Organizer uploads event photos.
 * AI detects and indexes faces.
