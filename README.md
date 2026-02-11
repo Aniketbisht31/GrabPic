@@ -34,5 +34,5 @@ After events, organizers upload hundreds or thousands of photos. This app automa
  Use Cases
 
 College fests, weddings, hackathons, corporate events, and conferences.
-
+currently working on it lets collaborate 
 ---
