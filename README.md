@@ -1,4 +1,4 @@
-# GrabPic
+# GrabPic AI Event Photo Finder
 
 ---
 
